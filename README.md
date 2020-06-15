@@ -5,4 +5,4 @@ Great python work by [Rui Wu](https://github.com/colin1990324)
 
 AI autoplayer for [1024 game](http://1024game.org)
 
-
+![1024 autoplayer](http://wurui.cc/images/blog/1024.gif)
